@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SkyDNA/SkyBlock-1
+branches:
+- master
+projects:
+  SkyBlock-1:
+    path: ""
+...
