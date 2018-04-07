@@ -1,5 +1,5 @@
 # SkyBlock
-SkyBlock for PocketMine-MP servers.
+SkyBlock for PocketMine-MP servers
 ### Contributions
 You are free to contribute to this project, any kind of help is accepted.
 ### Where can I download it?
